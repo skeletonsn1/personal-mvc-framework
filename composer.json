@@ -1,0 +1,14 @@
+{
+    "name": "skeleton/test",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "sKeletoN"
+        }
+    ],
+    "require": {}
+}
